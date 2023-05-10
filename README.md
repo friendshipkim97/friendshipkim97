@@ -8,8 +8,8 @@
 
 <br>
 
-▶️  I major `Convergence Software` at MJU <br><br>
-▶️  I work as a Server Developer
+▶️  I majored in convergence software at MJU <br><br>
+▶️  I'm working as a Server Developer
 
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
 <p align="center"> Tech stats I mainly use</p>
