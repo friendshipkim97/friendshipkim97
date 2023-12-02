@@ -6,8 +6,6 @@
 
 <br>
 
-<br>
-
 ▶️  I majored in convergence software at MJU 📚 <br><br>
 ▶️  I'm working as a Server Developer 👨‍💻
 
@@ -23,7 +21,6 @@
 <br>
   
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
   
 </br>
@@ -51,13 +48,6 @@
 <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/> 
 
 <br>
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-
-<br><br>
 
 <h4 align="center"><b>📞📫 How to reach me</b></h3>
 
