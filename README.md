@@ -5,7 +5,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/friendshipkim97"
-  width="600"
+  width="599"
   height="300"
 />
 </a>
