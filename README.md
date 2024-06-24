@@ -1,13 +1,20 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 </h2>
+
+<p align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/friendshipkim97"
+  width="600"
+  height="300"
+/>
+</a>
+
+</p>
 
 <br>
 
-## Jungwoo Kim
-
-<br>
-
-▶️  I majored in convergence software at MJU 📚 <br><br>
-▶️  I'm working as a Server Developer 👨‍💻
+<h2 align="center"> Jungwoo Kim </h2>
 
 <h4 align="center"> 🛠 Tech Stack 🛠</h4>
 <p align="center"> Tech stats I mainly use</p>
